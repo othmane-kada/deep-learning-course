@@ -24,11 +24,11 @@
 - Vitalii Duk
 - https://www.linkedin.com/in/vit-d
 
-### Content
+### Content and structure
 - [Intro](./lecture-2/00_Intro.ipynb)
 - [Basics of Artificial Neural Networks](./lecture-2/01_Neural_Nets_Intro.ipynb)
 - [PyTorch introduction](./lecture-2/02_PyTorch_Intro.ipynb)
-- [Linear and Logistic Regression using PyTorch and SGD](./lecture-2/03_Logistic_Regression_task.ipynb)
+- [Logistic Regression using PyTorch and SGD](./lecture-2/03_Logistic_Regression_task.ipynb)
 - [Building blocks of Convolutional Neural Networks](./lecture-2/04_CNN_intro.ipynb)
 - [MNIST image classifier using fully-connected NN](./lecture-2/05_FC_image_classification.ipynb)
 - [LeNet implementation on PyTorch](./lecture-2/06_LeNet_classification_task.ipynb)
