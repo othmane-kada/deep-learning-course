@@ -1,4 +1,4 @@
-# Deep Learning Course by ODS
+# Deep Learning Course by ODS Dubai
 
 <img src="./lecture-1/lecture_full/img/ods.png" width="640"/>
 
